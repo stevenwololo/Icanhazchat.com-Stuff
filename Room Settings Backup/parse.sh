@@ -1,6 +1,6 @@
 #!/bin/bash
-# Licensed under GPLv3
-# stevenwoo
+#Licensed under GPLv3
+#stevenwoo
 insertBreak () {
 	echo "" >> $filename;
 	echo "----------------------------------------" >> $filename;

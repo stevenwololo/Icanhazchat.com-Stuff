@@ -8,7 +8,6 @@
 // @version        0.1
 // ==/UserScript==
 
-var timer;
 init();
 
 function init(){

@@ -1,0 +1,25 @@
+I've decided to open source parts of stevenbot that other people might find it useful. This particular bot will allow a specific set of users to add / remove images which will be rotated periodically. 
+
+You can turn off image rotation if you want for some time, then turn it back on.
+
+Currently, images are selected randomly so it might pick the same background twice, or pick the background previous.
+
+
+Things you should do:
+-> Edit the room_permamods array
+-> Edit the bkground_images array
+
+
+To start the bot:
+-> type "/bot-start" in main chat
+-> paste in the javascript code
+-> run the bot
+
+
+
+type !help if you want to get a list of the commands
+
+Note: If you reboot your imagebot, the images added with !addbkground will no longer be there. There's ways of saving this, but I haven't played around with that yet.
+
+<3
+steven

@@ -1,4 +1,4 @@
-I've decided to open source parts of stevenbot that other people might find useful. This particular bot will allow a specific set of users to add / remove images which will be rotated periodically. 
+I've decided to open source parts of stevenbot that other people might find useful. This particular bot will allow a specific set of users to add / remove images which will be rotated periodically as the room background.
 
 You can turn off image rotation if you want for some time, then turn it back on.
 
@@ -14,7 +14,7 @@ To start the bot:
 -> type "/bot-start" in main chat
 -> paste in the javascript code
 -> run the bot
-
+-> give moderator status to the bot if you haven't already
 
 
 type !help if you want to get a list of the commands

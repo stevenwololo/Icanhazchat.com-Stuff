@@ -1,4 +1,5 @@
 #!/bin/bash
+#Licensed under GPLv3
 #    mod_delimiter       : "*",
 #    donator_delimiter   : "!",
 #    idle_delimiter      : "#",
